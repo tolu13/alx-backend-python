@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from typing import Callable
 """
 A function specifyingg multiplier is a float returns a float
 
 """
+from typing import Callable
 
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:

@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-import math
-
 """
 A type annotated function
 
 """
+import math
 
 
 def floor(n: float) -> int:
